@@ -45,7 +45,7 @@ const Home = () => (
                 <span style={{marginRight: "30px"}}/>
                 <a href="https://open.spotify.com/show/0rmI1Y4Cgk0c8YqhV5MjoM"><Image src={podcastSpotifyLogo} alt="Listen on Spotify Podcasts" width="100" rounded/></a>
                 <span style={{marginRight: "30px"}}/>
-                <a href=""><Image src={podcastYoutubeLogo} alt="Listen on Youtube" width="300" rounded/></a>
+                <a href="https://www.youtube.com/playlist?list=PLHVV9liCOIDD7v_OAPceAh3OLUXKMP3l4"><Image src={podcastYoutubeLogo} alt="Listen on Youtube" width="300" rounded/></a>
             </Col>
         </Row>
 
