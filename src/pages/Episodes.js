@@ -26,9 +26,9 @@ const Episodes = () => (
                 </Accordion>
             </Col>
         </Row>
-        {/*<Row>
-            <Col className="text-center mt-3" style={{color: 'white'}}><h1>General</h1></Col>
-        </Row>*/}
+        <Row>
+            <Col className="text-center mt-3" style={{color: 'white'}}></Col>
+        </Row>
 
     </Container>
 

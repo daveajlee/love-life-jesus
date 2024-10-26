@@ -39,15 +39,35 @@ const Home = () => (
                 <br/><br/>Do you not yet know who Jesus is? You are invited to subscribe to this 
                 podcast and find out. I promise each episode will help you to get know Jesus more.</p></Col>
         </Row>
-        <Row>
-            <Col className="text-center">
-                <a href="https://podcasts.apple.com/us/podcast/love-life-jesus/id1769064498"><Image src={podcastAppleLogo} alt="Listen on Apple Podcasts" width="100" rounded/></a>
-                <span style={{marginRight: "30px"}}/>
-                <a href="https://open.spotify.com/show/0rmI1Y4Cgk0c8YqhV5MjoM"><Image src={podcastSpotifyLogo} alt="Listen on Spotify Podcasts" width="100" rounded/></a>
-                <span style={{marginRight: "30px"}}/>
+        <MediaQuery query="(max-device-width: 900px)">
+            <Row>
+                <Col className="text-center">
+                    <a href="https://podcasts.apple.com/us/podcast/love-life-jesus/id1769064498"><Image src={podcastAppleLogo} alt="Listen on Apple Podcasts" width="100" rounded/></a>
+                </Col>
+            </Row>
+            <Row>
+                <Col className="mt-4 text-center" >
+                    <a href="https://open.spotify.com/show/0rmI1Y4Cgk0c8YqhV5MjoM"><Image src={podcastSpotifyLogo} alt="Listen on Spotify Podcasts" width="100" rounded/></a>
+                </Col>
+            </Row>
+            <Row>
+                <Col className="mt-4 text-center" >
                 <a href="https://www.youtube.com/playlist?list=PLHVV9liCOIDD7v_OAPceAh3OLUXKMP3l4"><Image src={podcastYoutubeLogo} alt="Listen on Youtube" width="300" rounded/></a>
-            </Col>
-        </Row>
+                </Col>
+            </Row>
+        </MediaQuery>
+        <MediaQuery query="(min-device-width: 901px)">
+            <Row>
+                <Col className="text-center">
+                    <a href="https://podcasts.apple.com/us/podcast/love-life-jesus/id1769064498"><Image src={podcastAppleLogo} alt="Listen on Apple Podcasts" width="100" rounded/></a>
+                    <span style={{marginRight: "30px"}}/>
+                    <a href="https://open.spotify.com/show/0rmI1Y4Cgk0c8YqhV5MjoM"><Image src={podcastSpotifyLogo} alt="Listen on Spotify Podcasts" width="100" rounded/></a>
+                    <span style={{marginRight: "30px"}}/>
+                    <a href="https://www.youtube.com/playlist?list=PLHVV9liCOIDD7v_OAPceAh3OLUXKMP3l4"><Image src={podcastYoutubeLogo} alt="Listen on Youtube" width="300" rounded/></a>
+                </Col>
+            </Row>
+        </MediaQuery>
+        
 
         <hr/>
 
