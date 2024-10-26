@@ -18,7 +18,7 @@ const Episodes = () => (
                         <Accordion.Body>
                             <a target="_blank" rel="noreferrer" href="https://www.biblegateway.com/passage/?search=Psalm%20117&version=NIV">Psalm 117 (view in Bible Gateway)</a>
                             <br/><br/>
-                            Brief description is here
+                            Coming Soon....
                             <br/><br/>
                             <button><img src={pdfLogo} alt="PDF logo" width={60}/></button>
                         </Accordion.Body>
