@@ -24,7 +24,7 @@ const Episodes = () => (
 Psalm 117 encourages us to always praise God. It provides a short and easy to remember structure that we can use at the beginning of our prayers. 
 In this episode, we will study Psalm 117 and at the end I will offer two tips how you can integrate Psalm 117 into your prayer life.
                             <br/><br/>
-                            <a href="https://github.com/daveajlee/love-life-jesus/blob/master/src/assets/pdf/Series1Episode1.pdf"><img src={pdfLogo} alt="PDF logo" width={60}/></a>
+                            <a href="https://github.com/daveajlee/love-life-jesus/blob/master/src/assets/pdf/Series1-Episode1.pdf"><img src={pdfLogo} alt="PDF logo" width={60}/></a>
                         </Accordion.Body>
                     </Accordion.Item>
                 </Accordion>
