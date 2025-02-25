@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/love-life-jesus/static/css/main.de7dec83.css",
-    "main.js": "/love-life-jesus/static/js/main.4b19f130.js",
-    "static/js/488.e4a45554.chunk.js": "/love-life-jesus/static/js/488.e4a45554.chunk.js",
+    "main.js": "/love-life-jesus/static/js/main.08989aa5.js",
+    "static/js/488.ac7c27ad.chunk.js": "/love-life-jesus/static/js/488.ac7c27ad.chunk.js",
     "static/media/subscribe-unsplash.png": "/love-life-jesus/static/media/subscribe-unsplash.9644c8f8a37717159099.png",
     "static/media/fellowship-unsplash.png": "/love-life-jesus/static/media/fellowship-unsplash.f85056f41d1c8807805f.png",
     "static/media/contact-unsplash.png": "/love-life-jesus/static/media/contact-unsplash.bd0e52766c153a89f3b2.png",
@@ -16,11 +16,11 @@
     "static/media/Apple_Podcasts_Icon_RGB_lg_060623.svg": "/love-life-jesus/static/media/Apple_Podcasts_Icon_RGB_lg_060623.713d47603b8dc258e1d7544c4e80c438.svg",
     "index.html": "/love-life-jesus/index.html",
     "main.de7dec83.css.map": "/love-life-jesus/static/css/main.de7dec83.css.map",
-    "main.4b19f130.js.map": "/love-life-jesus/static/js/main.4b19f130.js.map",
-    "488.e4a45554.chunk.js.map": "/love-life-jesus/static/js/488.e4a45554.chunk.js.map"
+    "main.08989aa5.js.map": "/love-life-jesus/static/js/main.08989aa5.js.map",
+    "488.ac7c27ad.chunk.js.map": "/love-life-jesus/static/js/488.ac7c27ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.de7dec83.css",
-    "static/js/main.4b19f130.js"
+    "static/js/main.08989aa5.js"
   ]
 }
