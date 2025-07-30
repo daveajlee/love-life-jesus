@@ -14,7 +14,7 @@ const Episodes = () => (
             <Col className="mt-3">
                 <Accordion defaultActiveKey="0">
                     <Accordion.Item eventKey="0">
-                        <Accordion.Header>Prayer – thanking, praising and asking God</Accordion.Header>
+                        <Accordion.Header>Episode 1: Prayer – thanking, praising and asking God</Accordion.Header>
                         <Accordion.Body>
                             <a target="_blank" rel="noreferrer" href="https://podcasters.spotify.com/pod/show/dajlee85/episodes/Prayer---thanking--praising-and-asking-God-e2qf9ju">Listen to the episode on Spotify (opens in new window)</a>
                             <br/><br/>
@@ -28,7 +28,7 @@ In this episode, we will study Psalm 117 and at the end I will offer two tips ho
                         </Accordion.Body>
                     </Accordion.Item>
                     <Accordion.Item eventKey="1">
-                        <Accordion.Header>Prayer –  The Lord's Prayer</Accordion.Header>
+                        <Accordion.Header>Episode 2: Prayer –  The Lord's Prayer</Accordion.Header>
                         <Accordion.Body>
                             <a target="_blank" rel="noreferrer" href="https://open.spotify.com/episode/6bc45P37BFttO0CFsvLGZd?si=sfWj7XVVRNiLjAHSLfOE9w">Listen to the episode on Spotify (opens in new window)</a>
                             <br/><br/>
