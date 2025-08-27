@@ -39,6 +39,20 @@ In this episode, we will study Psalm 117 and at the end I will offer two tips ho
                             In this episode, we will study the Lord's prayer and at the end I will offer three tips how you can integrate the Lord's prayer into your prayer life.
                         </Accordion.Body>
                     </Accordion.Item>
+                    <Accordion.Item eventKey="2">
+                        <Accordion.Header>Episode 3: Learning to Pray the Jesus Way</Accordion.Header>
+                        <Accordion.Body>
+                            <a target="_blank" rel="noreferrer" href="">Listen to the episode on Spotify (from 29th August)</a>
+                            <br/><br/>
+                            <a target="_blank" rel="noreferrer" href="https://www.biblegateway.com/passage/?search=John%2017:20-26&version=NLT">John 17:20-26 (view on Bible Gateway in new window)</a>
+                            <br/><br/>
+                            Prayer plays an important role in living a life with and for Jesus. We continue our series on prayer by looking at another of the most famous prayers in the bible where Jesus prays for us.
+                            John chapter 17 gives us an insight into how Jesus prays for us - what his prayer requests are and how we should pray for ourselves.
+                            In this episode, we will study John chapter 17 and at the end I will offer a couple of tips how you can integrate these prayer requests into your prayer life.
+                            <br/><br/>
+                            <a href="https://github.com/daveajlee/love-life-jesus/blob/master/src/assets/pdf/Series3-Episode3.pdf"><FiletypePdf color={"black"} size={48}/></a>
+                        </Accordion.Body>
+                    </Accordion.Item>
                 </Accordion>
             </Col>
         </Row>
