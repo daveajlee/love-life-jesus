@@ -24,7 +24,7 @@ const Episodes = () => (
 Psalm 117 encourages us to always praise God. It provides a short and easy to remember structure that we can use at the beginning of our prayers. 
 In this episode, we will study Psalm 117 and at the end I will offer two tips how you can integrate Psalm 117 into your prayer life.
                             <br/><br/>
-                            <a href="https://github.com/daveajlee/love-life-jesus/blob/master/src/assets/pdf/Series1-Episode1.pdf"><FiletypePdf color={"black"} size={48}/></a>
+                            <a href="https://github.com/daveajlee/love-life-jesus/blob/main/src/assets/pdf/Series1-Episode1.pdf"><FiletypePdf color={"black"} size={48}/></a>
                         </Accordion.Body>
                     </Accordion.Item>
                     <Accordion.Item eventKey="1">
@@ -42,7 +42,7 @@ In this episode, we will study Psalm 117 and at the end I will offer two tips ho
                     <Accordion.Item eventKey="2">
                         <Accordion.Header>Episode 3: Learning to Pray the Jesus Way</Accordion.Header>
                         <Accordion.Body>
-                            <a target="_blank" rel="noreferrer" href="">Listen to the episode on Spotify (from 29th August)</a>
+                            <a target="_blank" rel="noreferrer" >Listen to the episode on Spotify (from 29th August)</a>
                             <br/><br/>
                             <a target="_blank" rel="noreferrer" href="https://www.biblegateway.com/passage/?search=John%2017:20-26&version=NLT">John 17:20-26 (view on Bible Gateway in new window)</a>
                             <br/><br/>
@@ -50,7 +50,7 @@ In this episode, we will study Psalm 117 and at the end I will offer two tips ho
                             John chapter 17 gives us an insight into how Jesus prays for us - what his prayer requests are and how we should pray for ourselves.
                             In this episode, we will study John chapter 17 and at the end I will offer a couple of tips how you can integrate these prayer requests into your prayer life.
                             <br/><br/>
-                            <a href="https://github.com/daveajlee/love-life-jesus/blob/master/src/assets/pdf/Series3-Episode3.pdf"><FiletypePdf color={"black"} size={48}/></a>
+                            <a href="https://github.com/daveajlee/love-life-jesus/blob/main/src/assets/pdf/Series1-Episode3.pdf"><FiletypePdf color={"black"} size={48}/></a>
                         </Accordion.Body>
                     </Accordion.Item>
                 </Accordion>
