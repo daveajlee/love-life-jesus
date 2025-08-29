@@ -42,7 +42,7 @@ In this episode, we will study Psalm 117 and at the end I will offer two tips ho
                     <Accordion.Item eventKey="2">
                         <Accordion.Header>Episode 3: Learning to Pray the Jesus Way</Accordion.Header>
                         <Accordion.Body>
-                            <a target="_blank" rel="noreferrer" >Listen to the episode on Spotify (from 29th August)</a>
+                            <a target="_blank" rel="noreferrer" href="https://open.spotify.com/episode/3E5U9GhUOEE4eQ9i4rrtDT?si=93RUmfq3S6eYzXUxa4w0GQ">Listen to the episode on Spotify (opens in new window)</a>
                             <br/><br/>
                             <a target="_blank" rel="noreferrer" href="https://www.biblegateway.com/passage/?search=John%2017:20-26&version=NLT">John 17:20-26 (view on Bible Gateway in new window)</a>
                             <br/><br/>
