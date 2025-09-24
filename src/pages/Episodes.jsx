@@ -53,6 +53,18 @@ In this episode, we will study Psalm 117 and at the end I will offer two tips ho
                             <a href="https://github.com/daveajlee/love-life-jesus/blob/main/src/assets/pdf/Series1-Episode3.pdf"><FiletypePdf color={"black"} size={48}/></a>
                         </Accordion.Body>
                     </Accordion.Item>
+                    <Accordion.Item eventKey="3">
+                        <Accordion.Header>Episode 4: Caring and Praying for Others</Accordion.Header>
+                        <Accordion.Body>
+                            Listen to the episode on Spotify (from 29th September)
+                            <br/><br/>
+                            <a target="_blank" rel="noreferrer" href="https://www.biblegateway.com/passage/?search=1%20Samuel%201:9-20&version=NLT">1 Samuel 1:9-20 (view on Bible Gateway in new window)</a>
+                            <br/><br/>
+                            Prayer plays an important role in living a life with and for Jesus. We complete our series on prayer by looking at how prayer helps us to care for others.
+                            Hannah prays for a child but Eli thinks she is drunk. Through the story in 1st Samuel, we can learn a lot about how we can best care and pray for one another.
+                            I hope this episode will help you to be able to support others in difficult situations and I will offer a couple of tips how you can integrate this into your prayer life.
+                        </Accordion.Body>
+                    </Accordion.Item>
                 </Accordion>
             </Col>
         </Row>
