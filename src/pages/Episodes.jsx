@@ -56,7 +56,7 @@ In this episode, we will study Psalm 117 and at the end I will offer two tips ho
                     <Accordion.Item eventKey="3">
                         <Accordion.Header>Episode 4: Caring and Praying for Others</Accordion.Header>
                         <Accordion.Body>
-                            Listen to the episode on Spotify (from 29th September)
+                            <a target="_blank" rel="noreferrer" href="https://open.spotify.com/episode/280Afs4HpFIhxbJhDmzJBP?si=AbYnZATxRrSLh0q42kDdUg">Listen to the episode on Spotify (opens in new window)</a>
                             <br/><br/>
                             <a target="_blank" rel="noreferrer" href="https://www.biblegateway.com/passage/?search=1%20Samuel%201:9-20&version=NLT">1 Samuel 1:9-20 (view on Bible Gateway in new window)</a>
                             <br/><br/>
