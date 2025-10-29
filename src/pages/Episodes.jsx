@@ -16,7 +16,7 @@ const Episodes = () => (
                     <Accordion.Item eventKey="0">
                         <Accordion.Header>Episode 1: Prayer – thanking, praising and asking God</Accordion.Header>
                         <Accordion.Body>
-                            <a target="_blank" rel="noreferrer" href="https://podcasters.spotify.com/pod/show/dajlee85/episodes/Prayer---thanking--praising-and-asking-God-e2qf9ju">Listen to the episode on Spotify (opens in new window)</a>
+                            <a target="_blank" rel="noreferrer" href="https://open.spotify.com/episode/5jSZ7Bpulna7YCV3p1h4fF?si=tK4t8UXDSNiMtTQ5o2IT2g">Listen to the episode on Spotify (opens in new window)</a>
                             <br/><br/>
                             <a target="_blank" rel="noreferrer" href="https://www.biblegateway.com/passage/?search=Psalm%20117&version=NIV">Psalm 117 (view on Bible Gateway in new window)</a>
                             <br/><br/>
@@ -63,6 +63,28 @@ In this episode, we will study Psalm 117 and at the end I will offer two tips ho
                             Prayer plays an important role in living a life with and for Jesus. We complete our series on prayer by looking at how prayer helps us to care for others.
                             Hannah prays for a child but Eli thinks she is drunk. Through the story in 1st Samuel, we can learn a lot about how we can best care and pray for one another.
                             I hope this episode will help you to be able to support others in difficult situations and I will offer a couple of tips how you can integrate this into your prayer life.
+                        </Accordion.Body>
+                    </Accordion.Item>
+                </Accordion>
+            </Col>
+        </Row>
+        <Row>
+            <Col className="text-center mt-3" style={{color: 'white'}}><h1>God cares for us Series</h1></Col>
+        </Row>
+        <Row>
+            <Col className="mt-3">
+                <Accordion defaultActiveKey="0">
+                    <Accordion.Item eventKey="0">
+                        <Accordion.Header>Episode 1: God cares for us every day of our lives</Accordion.Header>
+                        <Accordion.Body>
+                            <a target="_blank" rel="noreferrer" href="https://open.spotify.com/episode/6V9D6qkAey6tSqv51qw18G?si=oiHcmim_SSa1SzE0yQIpyg">Listen to the episode on Spotify (opens in new window)</a>
+                            <br/><br/>
+                            <a target="_blank" rel="noreferrer" href="https://www.biblegateway.com/passage/?search=Acts%7:8-10&version=NLT">Acts 7:8-10 (view on Bible Gateway in new window)</a>
+                            <br/><br/>
+                            "I have a person who is always with me and gives me everything I need. Really?"
+                            In this podcast episode, I will reveal who cares for me in this way and start a new series on how God cares for us every day of our lives.
+                            We meet Joseph and Stephen who were prepared to wait for God to care for them in their respective situations.
+                            I hope this episode will help you to be able to realise how God cares for you and to be thankful for this. I will offer a couple of tips how you can integrate this into your normal life.
                         </Accordion.Body>
                     </Accordion.Item>
                 </Accordion>
