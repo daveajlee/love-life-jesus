@@ -87,6 +87,19 @@ In this episode, we will study Psalm 117 and at the end I will offer two tips ho
                             I hope this episode will help you to be able to realise how God cares for you and to be thankful for this. I will offer a couple of tips how you can integrate this into your normal life.
                         </Accordion.Body>
                     </Accordion.Item>
+                    <Accordion.Item eventKey="1">
+                        <Accordion.Header>Episode 2: Jesus carries us through the storm</Accordion.Header>
+                        <Accordion.Body>
+                            <a target="_blank" rel="noreferrer" href="https://open.spotify.com/episode/31eGZlkEIHyXuPR8WcPwhQ?si=IOgSkKVjQVuYTvxPRM38rQ">Listen to the episode on Spotify (opens in new window)</a>
+                            <br/><br/>
+                            <a target="_blank" rel="noreferrer" href="https://www.biblegateway.com/passage/?search=Matthew%8:23-26&version=NLT">Matthew 8:23-26 (view on Bible Gateway in new window)</a>
+                            <br/><br/>
+                            How often have you experienced a storm in your own life?
+                            In this podcast episode, I will speak about how Jesus carries us through the storm as part of the series on how God cares for us every day of our lives.
+                            We meet Peter who walked on water and Jesus who calmed not just one but two storms!
+                            I will offer some tips on how Jesus can carry you through the current or next storms of your life.
+                        </Accordion.Body>
+                    </Accordion.Item>
                 </Accordion>
             </Col>
         </Row>
