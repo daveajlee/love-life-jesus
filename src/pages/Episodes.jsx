@@ -105,7 +105,7 @@ In this episode, we will study Psalm 117 and at the end I will offer two tips ho
                         <Accordion.Body>
                             <a target="_blank" rel="noreferrer" href="https://open.spotify.com/episode/2MvfDMEFZxi7VHWmskYivc?si=dxt4K02PSgiG5-VTIT8aKw">Listen to the episode on Spotify (opens in new window)</a>
                             <br/><br/>
-                            <a target="_blank" rel="noreferrer" href="https://www.biblegateway.com/passage/?search=Matthew%11:25-30&version=NLT">Matthew 11:25-30 (view on Bible Gateway in new window)</a>
+                            <a target="_blank" rel="noreferrer" href="https://www.biblegateway.com/passage/?search=Matthew%2011%3A25-30&version=NLT">Matthew 11:25-30 (view on Bible Gateway in new window)</a>
                             <br/><br/>
                             Your todo list is too long and your relationship with God is going downhill?
                             It sounds impossible but in this episode I will explore how doing less can improve our relationship with God because taking a break can give us strength.
