@@ -5,7 +5,6 @@ import logoSmall from "./../assets/img/logo-large-mobile.png"
 import { Link } from "react-router-dom";
 import episodesImage from './../assets/img/bible-coffee-unsplash.png';
 import subscribeImage from './../assets/img/subscribe-unsplash.png';
-import fellowshipImage from './../assets/img/fellowship-unsplash.png';
 import contactImage from './../assets/img/contact-unsplash.png';
 import podcastAppleLogo from './../assets/img/Apple_Podcasts_Icon_RGB_lg_060623.svg';
 import podcastSpotifyLogo from './../assets/img/Spotify_Primary_Logo_RGB_Black.png';
@@ -72,7 +71,7 @@ const Home = () => (
         <hr/>
 
         <Row className="mt-3">
-            <Col xs={12} sm={12} md={6} lg={3}>
+            <Col xs={12} sm={12} md={6} lg={4}>
                 <Card className="text-center nav-card">
                     <Card.Img variant="top" src={episodesImage} alt={"Bible and coffee"}/>
                     <Card.Body>
@@ -84,7 +83,7 @@ const Home = () => (
                     </Card.Body>
                 </Card>
             </Col>
-            <Col xs={12} sm={12} md={6} lg={3}>
+            <Col xs={12} sm={12} md={6} lg={4}>
                 <Card className="text-center nav-card">
                     <Card.Img variant="top" src={subscribeImage} alt={"Photo of phone, headphones and coffee"}/>
                     <Card.Body>
@@ -96,19 +95,7 @@ const Home = () => (
                     </Card.Body>
                 </Card>
             </Col>
-            <Col xs={12} sm={12} md={6} lg={3}>
-                <Card className="text-center nav-card">
-                    <Card.Img variant="top" src={fellowshipImage} alt={"Photo of multiple people sharing fellowship"}/>
-                    <Card.Body>
-                        <Card.Title>Fellowship</Card.Title>
-                        <Card.Text>
-                            An opportunity to go deeper in some topics.
-                        </Card.Text>
-                        <Button variant="primary" as={Link} to="/fellowship">Fellowship</Button>
-                    </Card.Body>
-                </Card>
-            </Col>
-            <Col xs={12} sm={12} md={6} lg={3}>
+            <Col xs={12} sm={12} md={6} lg={4}>
                 <Card className="text-center nav-card">
                     <Card.Img variant="top" src={contactImage} alt={"Scrabble board with contact as word"}/>
                     <Card.Body>
