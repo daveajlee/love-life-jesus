@@ -5,7 +5,6 @@ import Home from './pages/Home';
 import { Routes } from 'react-router-dom';
 import { Route } from 'react-router-dom';
 import Subscribe from './pages/Subscribe';
-import Fellowship from './pages/Fellowship';
 import Episodes from './pages/Episodes';
 import Contact from './pages/Contact';
 
@@ -18,7 +17,6 @@ function App() {
           <Route exact path='/' element={<Home/>} />
           <Route exact path='/episodes' element={<Episodes/>} />
           <Route exact path='/subscribe' element={<Subscribe/>} />
-          <Route exact path='/fellowship' element={<Fellowship/>} />
           <Route exact path='/contact' element={<Contact/>}/>
         </Routes>
       </div>
