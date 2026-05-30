@@ -112,6 +112,19 @@ In this episode, we will study Psalm 117 and at the end I will offer two tips ho
                             We will look at the role that a rest day can play in our lives and I will offer some tips on how this rest day can improve your relationship with Jesus.
                         </Accordion.Body>
                     </Accordion.Item>
+                    <Accordion.Item eventKey="3">
+                        <Accordion.Header>Episode 4: The craziest bible story that shows God cares for us</Accordion.Header>
+                        <Accordion.Body>
+                            <a target="_blank" rel="noreferrer" href="https://open.spotify.com/episode/6KfalZT42K5klMTyQefiyA?si=YDn0kCBRR7Gtns8GWjW8Ow">Listen to the episode on Spotify (opens in new window)</a>
+                            <br/><br/>
+                            <a target="_blank" rel="noreferrer" href="https://www.biblegateway.com/passage/?search=2%20Kings%206%3A1-7&version=NLT">2 Kings 6:1-7 (view on Bible Gateway in new window)</a>
+                            <br/><br/>
+                            God cares for us even in the smallest parts of our lives!
+                            In this podcast episode we will consider one of the craziest bible stories that shows how God cares for us.
+                            We will look at what an axe, a river and a prophet have in common.
+                            In addition, we will learn how God wants us to use the resources he has given us but also ask him for our help when we need it. I will also offer some other tips on how this story can improve our relationship with Jesus.
+                        </Accordion.Body>
+                    </Accordion.Item>
                 </Accordion>
             </Col>
         </Row>
