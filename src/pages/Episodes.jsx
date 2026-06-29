@@ -125,6 +125,18 @@ In this episode, we will study Psalm 117 and at the end I will offer two tips ho
                             In addition, we will learn how God wants us to use the resources he has given us but also ask him for our help when we need it. I will also offer some other tips on how this story can improve our relationship with Jesus.
                         </Accordion.Body>
                     </Accordion.Item>
+                    <Accordion.Item eventKey="4">
+                        <Accordion.Header>Episode 5: God is on your side</Accordion.Header>
+                        <Accordion.Body>
+                            <a target="_blank" rel="noreferrer" href="https://open.spotify.com/episode/6uxnkkpNQVKH0uVEoNLiAr?si=KXi64G0vTfmKz9-w3BpRyQ">Listen to the episode on Spotify (opens in new window)</a>
+                            <br/><br/>
+                            <a target="_blank" rel="noreferrer" href="https://www.biblegateway.com/passage/?search=Romans%208%3A31-39&version=NLT">Romans 8:31-39 (view on Bible Gateway in new window)</a>
+                            <br/><br/>
+                            In a world where it can often feel like everyone is against us, it is essential to know that someone is on our side!
+                            In this podcast episode we will consider how God is on our side and how with God on our side we can triumph through difficulties.
+                            In addition, we will learn how we can remember this important truth during our everyday lives.
+                        </Accordion.Body>
+                    </Accordion.Item>
                 </Accordion>
             </Col>
         </Row>
