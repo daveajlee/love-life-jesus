@@ -137,6 +137,17 @@ In this episode, we will study Psalm 117 and at the end I will offer two tips ho
                             In addition, we will learn how we can remember this important truth during our everyday lives.
                         </Accordion.Body>
                     </Accordion.Item>
+                    <Accordion.Item eventKey="5">
+                        <Accordion.Header>Episode 6: Looking to the future with a thankful heart</Accordion.Header>
+                        <Accordion.Body>
+                            <a target="_blank" rel="noreferrer" href="https://open.spotify.com/episode/51S8wYmnWkEXRVhdLwId0q?si=sXbfNY9oTOaKglWC45x3Dg">Listen to the episode on Spotify (opens in new window)</a>
+                            <br/><br/>
+                            <a target="_blank" rel="noreferrer" href="https://www.biblegateway.com/passage/?search=Acts%2020%3A17-38&version=NLT">Acts 20:17-38 (view on Bible Gateway in new window)</a>
+                            <br/><br/>
+                            We are often uncertain what the future will bring. Being thankful for everything that we have survived in the past - even the bad things - can help us to gain a positive attitude for the future. 
+                            In this podcast episode we will look to the future with a thankful heart by considering the last words of the Apostel Paul to the elders at the church in Ephesus. This is much more than just a history lesson - it can be life changing!
+                        </Accordion.Body>
+                    </Accordion.Item>
                 </Accordion>
             </Col>
         </Row>
