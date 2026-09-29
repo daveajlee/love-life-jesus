@@ -148,6 +148,28 @@ In this episode, we will study Psalm 117 and at the end I will offer two tips ho
                             In this podcast episode we will look to the future with a thankful heart by considering the last words of the Apostel Paul to the elders at the church in Ephesus. This is much more than just a history lesson - it can be life changing!
                         </Accordion.Body>
                     </Accordion.Item>
+                    <Accordion.Item eventKey="6">
+                        <Accordion.Header>Episode 7: What is love?</Accordion.Header>
+                        <Accordion.Body>
+                            <a target="_blank" rel="noreferrer" href="https://open.spotify.com/episode/7y3Nw9Bn590lEQbhkMI1XF?si=39iV9qjXRWScq433jDIOOg">Listen to the episode on Spotify (opens in new window)</a>
+                            <br/><br/>
+                            <a target="_blank" rel="noreferrer" href="https://www.biblegateway.com/passage/?search=1%20Corinthians%2013&version=NLT">1 Corinthians 13 (view on Bible Gateway in new window)</a>
+                            <br/><br/>
+                            In the next two episodes of this podcast, I want to look at loving your neighbour. In this episode we will look at the definition of love as this is essential to understanding what loving your neighbour means.
+                            We will look at a famous passage in the bible which is often used at weddings: 1 Corinthians chapter 13. We will see however that this passage is not just relevant for married couples. Instead it can help all believers to understand what God truly meant with the word love.
+                        </Accordion.Body>
+                    </Accordion.Item>
+                    <Accordion.Item eventKey="7">
+                        <Accordion.Header>Episode 8: Practical Examples of Neighbourly love</Accordion.Header>
+                        <Accordion.Body>
+                            <a target="_blank" rel="noreferrer" href="https://open.spotify.com/episode/5E8Xb3HN2Lmk6mkLSubWzX?si=zqosbNebSBmQvLuEfUjnyQ">Listen to the episode on Spotify (opens in new window)</a>
+                            <br/><br/>
+                            <a target="_blank" rel="noreferrer" href="https://www.biblegateway.com/passage/?search=Matthew%2022%3A34-40&version=NLT">Matthew 22:34-40 (view on Bible Gateway in new window)</a>
+                            <br/><br/>
+                            In the second of two episodes of this podcast looking at loving your neighbour, we will look at some practical examples of loving your neighbour. 
+                            We will define what exactly neighbourly love is, how loving our neighbour can bring us benefits and how we can share our faith in God through simple acts of kindness. 
+                        </Accordion.Body>
+                    </Accordion.Item>
                 </Accordion>
             </Col>
         </Row>
